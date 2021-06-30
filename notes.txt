@@ -1,0 +1,18 @@
+npm install react react-dom -S
+npm install @babel/core @babel/preset-env @babel/preset-react babel-loader -D
+npm install webpack webpack-cli webpack-dev-server -D
+npm install html-loader html-webpack-plugin -D
+npm install mini-css-extract-plugin css-loader node-sass sass-loader -D
+npm install eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+npm install file-loader -D
+sudo npm install json-server -g
+
+App.jsx:
+
+  // const [ videos, setVideos ] = useState({
+  //   mylist: [],
+  //   trends: [],
+  //   originals: []
+  // })
+
+npm install --save prop-types
