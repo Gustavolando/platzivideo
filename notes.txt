@@ -16,3 +16,8 @@ App.jsx:
   // })
 
 npm install --save prop-types
+
+npm install react-router-dom --save
+npm install redux react-redux --Save
+npm install md5 --save
+npm install classnames --save
