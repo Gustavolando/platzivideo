@@ -19,7 +19,7 @@ Technologies used so far in this project:
 <img src="https://i.imgur.com/6sp8R0T.png" alt="Register / Registro"/>
 
 Feel free to watch a video demo:
-<a href="https://i.imgur.com/cmsP1fp.mp4" target="_blank">here</a>
+<a href="https://i.imgur.com/cmsP1fp.mp4" target="_blank" rel="noopener noreferrer">here</a>
 
 
 ## Update 22-sept-2021
